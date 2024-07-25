@@ -10,8 +10,8 @@ prom/prometheus:v2.51.2
 prom/alertmanager:v0.27.0
 grafana/grafana:10.4.2
 quay.io/coreos/etcd:v3.5.13
-openim/openim-web-front:main
-openim/openim-admin-front:main
+openim/openim-web-front:release-v3.5.1
+openim/openim-admin-front:release-v1.7
 prom/node-exporter:v1.7.0
 openim/openim-server:main
 openim/openim-chat:main
