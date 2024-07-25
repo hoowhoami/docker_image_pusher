@@ -10,11 +10,13 @@ prom/prometheus:v2.51.2
 prom/alertmanager:v0.27.0
 grafana/grafana:10.4.2
 quay.io/coreos/etcd:v3.5.13
-openim/openim-web-front:release-v3.5.1
-openim/openim-admin-front:release-v1.7
+openim/openim-web-front:main
+openim/openim-admin-front:main
 prom/node-exporter:v1.7.0
-openim/openim-server:release-v3.7
-openim/openim-chat:release-v1.7
+openim/openim-server:main
+openim/openim-chat:main
+openim/openkf-server:main
+openim/openkf-web:main
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
