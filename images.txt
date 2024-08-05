@@ -17,6 +17,7 @@ ghcr.io/turms-im/turms-admin
 rasa/rasa:3.6.19-full
 livekit/livekit-server:v1.6.1
 elasticsearch:8.13.0
+mysql:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
