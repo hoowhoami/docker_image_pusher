@@ -1,5 +1,6 @@
-ollama/ollama:0.3.10
+dyrnq/open-webui:main
 
+#ollama/ollama:0.3.10
 #golang:alpine
 
 #openjdk:21
