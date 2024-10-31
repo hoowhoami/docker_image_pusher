@@ -1,5 +1,8 @@
-metacubex/clash-meta:latest
-sifan1/vodspider
+metacubex/mihomo:latest
+sifan1/vodspider:v2
+
+#metacubex/clash-meta:latest
+#sifan1/vodspider
 
 #vodspider:1.0
 
